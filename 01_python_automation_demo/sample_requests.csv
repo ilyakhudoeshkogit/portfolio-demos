@@ -1,0 +1,13 @@
+id,date,department,requester,email,item,qty,unit_price,priority
+1001,2026-10-20,Склад,Иванов И.,ivanov@example.com,Паллетная плёнка,20,12.50,normal
+1002,2026-10-21,Офис,Петрова А.,petrova@example.com,Бумага А4 (пачка),30,9.80,normal
+1003,2026-10-21,Продажи,Сидоров П.,sidorov@example.com,Ноутбук,2,1800.00,normal
+1004,2026-10-22,Логистика,Козлов Д.,kozlov-at-example.com,GPS-трекер,5,45.00,high
+1005,2026-10-22,HR,,hr@example.com,Кресло офисное,3,150.00,normal
+1006,2026-10-23,Склад,Иванов И.,ivanov@example.com,Стрейч-плёнка,-4,8.00,normal
+1007,2026-10-23,Финансы,Орлова Н.,orlova@example.com,Принтер,1,0,normal
+1008,2026-10-24,Офис,Петрова А.,petrova@example.com,Кофе зерновой (кг),10,22.00,high
+1009,2026-10-24,Склад,Иванов И.,ivanov@example.com,Паллетная плёнка,20,12.50,normal
+1010,24.10.2026,Продажи,Сидоров П.,sidorov@example.com,Телефонная гарнитура,4,60.00,normal
+1011,2026-10-25,Логистика,Козлов Д.,kozlov@example.com,Сканер штрихкодов,2,320.00,high
+1012,2026-10-26,Офис,Петрова А.,petrova@example.com,Маркеры (набор),15,3.20,low

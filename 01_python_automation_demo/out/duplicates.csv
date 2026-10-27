@@ -1,0 +1,2 @@
+id,date,department,requester,email,item,qty,unit_price,priority,amount,reason,status
+1009,2026-10-24,Склад,Иванов И.,ivanov@example.com,Паллетная плёнка,20,12.50,normal,250.00,"такая же заявка (отдел, автор, позиция, количество) уже есть",ДУБЛЬ

@@ -1,0 +1,3 @@
+id,date,department,requester,email,item,qty,unit_price,priority,amount,reason,status
+1003,2026-10-21,Продажи,Сидоров П.,sidorov@example.com,Ноутбук,2,1800.00,normal,3600.00,сумма 3600.00 больше порога 500.00,НА_СОГЛАСОВАНИЕ
+1011,2026-10-25,Логистика,Козлов Д.,kozlov@example.com,Сканер штрихкодов,2,320.00,high,640.00,сумма 640.00 больше порога 500.00,НА_СОГЛАСОВАНИЕ
